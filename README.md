@@ -1,5 +1,6 @@
 # FFMH
-Tool for quick gene find from FIMO hits
+FFMH stands for Find fimo motif hits.
+This tool is made to quickly find genes after un fimo motif hit.
 
 ## How to use ?
 The program works on linux with python3 installed.
