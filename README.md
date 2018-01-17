@@ -1,7 +1,7 @@
 # FFMH
 FFMH stands for Find FIMO motif hits.
 This tool is made to quickly find genes after an FIMO motif hit.
-
+___
 
 ## Usage
 This script sshould work on most linux and mac osx systems with python 3 installed.
@@ -26,4 +26,6 @@ the second output is a small one line output with:
 | extensive      | **0** | 
 | small      | **1** |
 
-
+____________
+Build by:
+Casper Prins
