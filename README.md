@@ -4,7 +4,7 @@ This tool is made to quickly find genes after an FIMO motif hit.
 ___
 
 ## Usage
-This script sshould work on most linux and mac osx systems with python 3 installed.
+This script should work on most linux and mac osx systems with python 3 installed.
 The only file's needed to work are the fimo.txt with the hits and the full genbank file form the organism
 
 ### syntax 
